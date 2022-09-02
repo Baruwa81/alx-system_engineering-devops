@@ -1,3 +1,2 @@
 #!/bin/bash
-mkgir -p welcome/to/school
-
+mkdir -p welcome/to/school
